@@ -1,1 +1,13 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Rnp%9_|9PbK(Fc#?_NQZ" x="0" y="0"></block><block type="device_forever" id="p[QH?KUht:2;eT72Fo1q" x="205" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Rnp%9_|9PbK(Fc#?_NQZ" x="0" y="0"></block><block type="device_forever" id="p[QH?KUht:2;eT72Fo1q" x="205" y="0"><statement name="HANDLER"><block type="device_show_leds" id="])afCB(9gJma`u%D8Eka"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_pause" id="]]/%sP$;%i]C?bOodvVV"><value name="pause"><shadow type="timePicker" id="QC;^v@#!=A#F0JuKbf)}"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="HodHq#Bx:Z/ynln$B|ZT"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_pause" id=".$M$7+xx2?*!KExV]Er@"><value name="pause"><shadow type="timePicker" id="7jkrW,*f_QcOU8mQ3Piu"><field name="ms">1000</field></shadow></value><next><block type="basic_show_icon" id="U4;mAL#=b4H./liu-1K|"><field name="i">IconNames.Surprised</field><next><block type="device_pause" id="B.(jV{qcZHX`ES0}H_@)"><value name="pause"><shadow type="timePicker" id="(iF3)4MGRCyo2/b[)!o4"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
